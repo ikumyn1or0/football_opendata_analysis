@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "football-opendata-analysis"
+version = "0.1.0"
+description = ""
+authors = ["ikumi.ichikawa <19ming3@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "3.11.7"
+ipython = "*"
+jupyter = "*"
+notebook = "*"
+numpy = "*"
+pandas = "*"
+polars = "*"
+matplotlib = "*"
+seaborn = "*"
+japanize-matplotlib = "*"
+plotly = "*"
+scipy = "*"
+scikit-learn = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
