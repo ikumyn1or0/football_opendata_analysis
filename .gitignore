@@ -1,4 +1,5 @@
 /.venv
 /input/open-data
+/src/__pycache__
 .python-version
 poetry.lock
