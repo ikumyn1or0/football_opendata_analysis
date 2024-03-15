@@ -20,6 +20,7 @@ japanize-matplotlib = "*"
 plotly = "*"
 scipy = "*"
 scikit-learn = "*"
+mplsoccer = "*"
 
 
 [build-system]
